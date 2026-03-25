@@ -183,7 +183,8 @@ function App() {
 export default App;
 ```
 ## OUTPUT
-![alt text](<Screenshot 2026-03-17 154537.png>)
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/9644fe2f-686a-4912-ac54-7386d9ecca48" />
+
 
 ## RESULT
 The program for creating Image Carousel using React is executed successfully.
